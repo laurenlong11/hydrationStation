@@ -1,0 +1,38 @@
+#myProgress {
+  width: 50%;
+  background-color: #bdbbbb;
+  display: inline-block;
+  margin: 15px;
+  border: solid #3c3a3a 1px;
+  display: block;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+#myBar {
+  width: 0%;
+  height: 30px;
+  background-color: #49c7ec;
+}
+
+h1 {
+  font-family: tahoma;
+  margin: 50px 0 25px 0;
+}
+
+#water {
+  font-family: arial;
+  padding: 10px; 
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+#water:hover {
+  box-shadow: 3px 3px 3px #d3d3d3;
+}
+
+body {
+  text-align: center;
+}
